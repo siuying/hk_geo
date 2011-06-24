@@ -2,6 +2,11 @@
 
 A Geo location conversion API for HK
 
+== Dependency
+
+* mechanize
+* hoe (build)
+
 == Usage
 
 By default, convert the HK80 location to WGS84/ITRF96
