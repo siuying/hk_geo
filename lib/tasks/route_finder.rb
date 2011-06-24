@@ -9,6 +9,8 @@ task :route do
 
     begin
       unless results[name]
+        puts "find path: #{name}"
+        
         # convert HK80
         latlng1 = HkGeo::Converter.convert(coord1n, coord1e) rescue nil
         latlng2 = HkGeo::Converter.convert(coord2n, coord2e) rescue nil
