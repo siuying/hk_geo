@@ -9,6 +9,10 @@ A Geo location conversion API for HK.
 * mechanize
 * hoe (build)
 
+== Install
+
+ gem install hk_geo
+
 == Usage
 
 By default, convert the HK80 location to WGS84/ITRF96
