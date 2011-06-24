@@ -8,6 +8,7 @@ A Geo location conversion API for HK.
 
 * mechanize
 * rest-client
+* json
 * nayutaya-googlemaps-polyline
 * hoe (build)
 
