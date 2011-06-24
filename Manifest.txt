@@ -1,3 +1,7 @@
 Manifest.txt
-README.rdoc
+README.txt
+History.txt
 Rakefile
+LICENSE
+lib/hk_geo.rb
+lib/hk_geo/converter.rb
