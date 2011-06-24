@@ -6,7 +6,10 @@ A Geo location conversion API for HK.
 
 == Dependency
 
+* ruby 1.9.1
 * mechanize
+* rest-client
+* nayutaya-googlemaps-polyline
 * hoe (build)
 
 == Install
@@ -31,5 +34,6 @@ Check the test for more info.
 
 == Credit
 
-This api rely on the online conversion tool from Survey and Mapping Office. http://www.geodetic.gov.hk/smo/tform/tra_tform.aspx
+The conversion api rely on the online conversion tool from Survey and Mapping Office. http://www.geodetic.gov.hk/smo/tform/tra_tform.aspx
+
 
