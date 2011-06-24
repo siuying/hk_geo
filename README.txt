@@ -1,6 +1,8 @@
 = HkGeo
 
-A Geo location conversion API for HK
+== Description
+
+A Geo location conversion API for HK.
 
 == Dependency
 
