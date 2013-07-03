@@ -1,6 +1,5 @@
-require 'hk_geo/converter'
-require 'hk_geo/route_finder'
+require "hk_geo/version"
 
 module HkGeo
-  VERSION = "0.2.0"
+  # Your code goes here...
 end
