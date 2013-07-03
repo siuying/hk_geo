@@ -1,4 +1,3 @@
-require 'rubygems'
 require 'rest-client'
 require 'json'
 require "googlemaps_polyline/core"
